@@ -1,0 +1,110 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+7
+natalia
+1
+0
+5
+pedro
+1
+0
+6
+dinero
+1
+0
+9
+1
+36
+natalia < 1000000 or pedro < 1000000
+4
+1
+85
+'a quien desea ayudar? Digite 1 para ayudar a Natalia., Digite 2 para ayudar a Pedro'
+5
+1
+2
+op
+7
+0
+1
+4
+op=1
+7
+0
+1
+4
+op=2
+13
+4
+1
+19
+'cuanto desea dar?'
+5
+1
+6
+dinero
+7
+0
+1
+16
+dinero < 1000000
+4
+1
+42
+'no puedes recaudar mas de lo establecido'
+13
+6
+1
+5
+pedro
+12
+pedro+dinero
+4
+1
+26
+'dinero aportado', natalia
+13
+13
+13
+4
+1
+19
+'cuanto desea dar?'
+5
+1
+6
+dinero
+7
+0
+1
+16
+dinero < 1000000
+4
+1
+42
+'no puedes recaudar mas de lo establecido'
+13
+6
+1
+7
+natalia
+14
+natalia+dinero
+4
+1
+26
+'dinero aportado', natalia
+13
+13
+4
+1
+23
+'total recaudo', dinero
+11
+1

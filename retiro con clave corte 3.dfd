@@ -1,0 +1,70 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+6
+dinero
+7
+1000000
+9
+1
+15
+dinero > 100000
+4
+1
+17
+'digite la clave'
+5
+1
+5
+clave
+7
+0
+1
+12
+clave = 8522
+4
+1
+18
+'clave incorrecta'
+13
+4
+1
+29
+'cuanto dinero desea retirar'
+5
+1
+6
+retiro
+7
+0
+1
+17
+retiro <= dinero 
+4
+1
+20
+'saldo insuficiente'
+13
+6
+1
+6
+dinero
+13
+dinero-retiro
+4
+1
+42
+'retiro exitoso, saldo disponible', dinero
+13
+13
+4
+1
+14
+'hasta pronto'
+11
+1

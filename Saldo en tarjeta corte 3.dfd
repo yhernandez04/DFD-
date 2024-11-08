@@ -1,0 +1,47 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+5
+saldo
+7
+1500000
+9
+1
+9
+saldo > 0
+5
+1
+6
+compra
+7
+0
+1
+15
+compra <= saldo
+4
+1
+21
+'monto no suficiente'
+13
+6
+1
+5
+saldo
+12
+saldo-compra
+4
+1
+25
+'saldo disponible', saldo
+13
+11
+4
+1
+5
+saldo
+1

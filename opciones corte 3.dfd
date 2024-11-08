@@ -1,0 +1,102 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+5
+saldo
+1
+0
+6
+digite
+1
+0
+9
+1
+11
+digite != 4
+4
+1
+133
+'digite un numero para continuar. Digite 1 para recargar., Digite 2 para  retirar., Digite 3 para ver tu saldo., Digite 4 para salir'
+5
+1
+1
+d
+7
+0
+1
+5
+d = 1
+7
+0
+1
+5
+d = 2
+7
+0
+1
+5
+d = 3
+13
+4
+1
+23
+'su saldo es de', saldo
+13
+13
+4
+1
+23
+'Cuanto desea retirar?'
+5
+1
+6
+retiro
+7
+0
+1
+13
+retiro<=saldo
+4
+1
+20
+'saldo insuficiente'
+13
+6
+1
+5
+saldo
+12
+saldo-retiro
+4
+1
+25
+'saldo disponible', saldo
+13
+13
+13
+4
+1
+31
+'cuanto dinero desea recargar?'
+5
+1
+6
+dinero
+6
+1
+5
+saldo
+12
+saldo+dinero
+4
+1
+36
+'Recarga exitosa su saldo es', saldo
+13
+11
+1

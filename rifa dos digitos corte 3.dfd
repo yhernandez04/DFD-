@@ -1,0 +1,83 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+6
+dinero
+1
+0
+2
+pg
+1
+0
+2
+pa
+1
+0
+9
+1
+6
+pg < 2
+4
+1
+25
+'abona dinero para jugar'
+5
+1
+1
+d
+6
+1
+6
+dinero
+8
+dinero+d
+4
+1
+18
+'digite un numero'
+5
+1
+1
+p
+7
+0
+1
+10
+p=4 or p=9
+4
+1
+6
+'lola'
+13
+4
+1
+26
+'ganaste con el numero', p
+6
+1
+2
+pg
+4
+pg+1
+13
+6
+1
+2
+pa
+4
+pa+1
+4
+1
+28
+'participantes en total', pa
+4
+1
+26
+'dinero recaudado', dinero
+11
+1
