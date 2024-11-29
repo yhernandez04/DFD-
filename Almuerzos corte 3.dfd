@@ -1,0 +1,157 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+3
+lim
+3
+100
+10
+entregados
+1
+0
+5
+plata
+1
+0
+6
+3
+5
+valor
+4
+1500
+9
+almuerzos
+1
+0
+5
+dispo
+1
+0
+9
+1
+7
+lim !=4
+4
+1
+17
+'que desea hacer'
+5
+1
+2
+op
+7
+0
+1
+4
+op=1
+7
+0
+1
+4
+op=2
+7
+0
+1
+4
+op=3
+13
+4
+1
+30
+'haz elegido recoger almuerzo'
+7
+0
+1
+7
+dispo>0
+4
+1
+37
+'solo es posible recoger un almuerzo'
+13
+4
+1
+20
+'almuerzo entregado'
+6
+2
+5
+dispo
+7
+dispo-1
+10
+entregados
+12
+entregados+1
+4
+1
+31
+'almuerzos por entregar', dispo
+13
+13
+13
+4
+1
+33
+'haz elegido "comprar almuerzos"'
+4
+1
+56
+'¿cuantos almuerzos desea comprar? limite 2 por persona'
+5
+1
+1
+a
+7
+0
+1
+10
+a=1 or a=2
+4
+1
+24
+'maximo dos por persona'
+13
+6
+2
+9
+almuerzos
+13
+almuerzos + a
+5
+dispo
+7
+dispo+a
+6
+2
+1
+v
+7
+valor*a
+5
+plata
+7
+plata+v
+4
+1
+20
+'almuerzos vendidos'
+13
+13
+13
+4
+1
+27
+'has elegido "ver informe"'
+4
+1
+90
+'dinero',plata, 'almuerzos',almuerzos, 'entregados',entregados, 'falta por entregar',dispo
+13
+11
+1
